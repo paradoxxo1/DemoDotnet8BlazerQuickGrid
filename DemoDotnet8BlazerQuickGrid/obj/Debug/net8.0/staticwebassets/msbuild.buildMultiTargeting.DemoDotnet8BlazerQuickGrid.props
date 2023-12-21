@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DemoDotnet8BlazerQuickGrid.props" />
+</Project>
